@@ -2,6 +2,8 @@
 
 This project is a modern, responsive landing page built with Next.js, Tailwind CSS, Framer Motion, and Radix UI.
 
+![Landing Page](https://raw.githubusercontent.com/raffimh/digital-agency-landing-page/master/public/assets/landing-page.png)
+
 ## Table of Contents
 
 - [Features](#features)
